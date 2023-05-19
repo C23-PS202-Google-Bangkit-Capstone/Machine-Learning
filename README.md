@@ -10,7 +10,7 @@ We use datasets from Kaggle which contains 2 folders:
 - Vegetables (6003 images for 10 classes)
 
 This dataset was gathered from different online sources, such as Google images, Bing images, Kaggle, Fruit360, and Sriram R.K. Here is the link:
-- https://kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset?resource=download
+- https://kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset
 
 ## Case
 Here are the two main features we developed in our project:
